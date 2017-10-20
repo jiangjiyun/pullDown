@@ -1,0 +1,19 @@
+{
+  "name": "pulldown",
+  "version": "1.0.0",
+  "description": "```\r c add pullDown\r ```\r ###",
+  "main": "pullDown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangjiyun/pullDown.git"
+  },
+  "author": "jiangjy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangjiyun/pullDown/issues"
+  },
+  "homepage": "https://github.com/jiangjiyun/pullDown#readme"
+}
